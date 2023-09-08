@@ -1,0 +1,16 @@
+{
+  "name": "handson-1",
+  "version": "1.0.0",
+  "description": "\"buddy\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sara",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^3.0.1"
+  }
+}
